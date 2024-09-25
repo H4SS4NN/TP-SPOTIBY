@@ -1,5 +1,5 @@
 
-Pas de souci, voici une version plus simple, comme tu l'as demandé :
+
 
 Ceci est une application qui permet de se connecter à une appli de musique où l'on peut retrouver certains rappeurs et écouter leurs albums. On peut voir le nom de l'album, la date de sortie, le nombre de sons dans l'album ainsi que l'image de couverture. Il y a aussi un extrait YouTube d'un des sons de l'album.
 
