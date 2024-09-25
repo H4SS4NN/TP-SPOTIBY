@@ -1,0 +1,1238 @@
+{
+    "albums": [
+      {
+        "id": 1,
+        "linkiframe":"<iframe width=\"700\" height=\"315\" src=\"https://www.youtube.com/embed/RRHeUygdfHw?si=fKZUy7fx7KCmDE0h\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "title": {
+          "fr": "Cendres",
+          "en": "Cendres"
+        },
+        "artist": {
+          "name": {
+            "fr": "Kaaris",
+            "en": "Kaaris"
+          },
+          "id": 1
+        },
+        "release_date": "2023-06-10",
+        "cover_url": "https://static.fnac-static.com/multimedia/Images/FR/NR/33/06/c0/12584499/1540-1/tsp20200812161233/2-7-0.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 101,
+            "title": {
+              "fr": "Démons",
+              "en": "Demons"
+            },
+            "duration": "3:45",
+            "featured_artists": [],
+            "album_id": 1
+          },
+          {
+            "id": 102,
+            "title": {
+              "fr": "Coup de Poing",
+              "en": "Punch"
+            },
+            "duration": "4:10",
+            "featured_artists": [],
+            "album_id": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "linkiframe": "<iframe width=\"700\" height=\"315\" src=\"https://www.youtube.com/embed/lm20v6ASSFI?si=F99jsG1ho4veTpia&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "title": {
+            "fr": "Happier Than Ever"
+        },
+        "artist": {
+            "name": {
+                "fr": "Billie Eilish",
+                "en": "Billie Eilish"
+            },
+            "id": 2
+        },
+        "release_date": "2021-07-30",
+        "cover_url": "https://www.francetvinfo.fr/pictures/UI5V0DUM90Bj7Vv1AxS1-VendVQ/1200x1200/2024/05/16/hitmehardandsoft-6645f287dba62732570309.jpg",
+        "genre": {
+            "fr": "Pop",
+            "en": "Pop"
+        },
+        "tracks": [
+            {
+                "id": 201,
+                "title": {
+                    "fr": "Getting Older",
+                    "en": "Getting Older"
+                },
+                "duration": "4:02",
+                "featured_artists": [],
+                "album_id": 2
+            },
+            {
+                "id": 202,
+                "title": {
+                    "fr": "Happier Than Ever",
+                    "en": "Happier Than Ever"
+                },
+                "duration": "4:59",
+                "featured_artists": [],
+                "album_id": 2
+            }
+        ]
+    }
+    ,
+      {
+        "id": 3,
+        "linkiframe": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/hwtLqJyhS3Q?si=mMsa_RZ9pPlNpjrk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "title": {
+          "fr": "B2O",
+          "en": "B2O"
+        },
+        "artist": {
+          "name": {
+            "fr": "Booba",
+            "en": "Booba"
+          },
+          "id": 3
+        },
+        "release_date": "2023-05-05",
+        "cover_url": "https://static.actu.fr/uploads/2021/02/ultra-booba.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 301,
+            
+            "title": {
+              "fr": "Grosse Bise",
+              "en": "Big Kiss"
+            },
+            "duration": "3:50",
+            "featured_artists": [],
+            "album_id": 3
+          },
+          {
+            "id": 302,
+            "title": {
+              "fr": "Tout Se Paie",
+              "en": "Everything Has a Price"
+            },
+            "duration": "4:20",
+            "featured_artists": [],
+            "album_id": 3
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "link": "https://www.deezer.com/fr/album/302394832",
+        "title": {
+          "fr": "C'est La Vie",
+          "en": "C'est La Vie"
+        },
+        "artist": {
+          "name": {
+            "fr": "Soprano",
+            "en": "Soprano"
+          },
+          "id": 4
+        },
+        "release_date": "2023-04-01",
+        "cover_url": "https://m.media-amazon.com/images/I/61YWJzD4xlL._UF1000,1000_QL80_.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 401,
+            "title": {
+              "fr": "Le Coach",
+              "en": "The Coach"
+            },
+            "duration": "3:35",
+            "featured_artists": [],
+            "album_id": 4
+          },
+          {
+            "id": 402,
+            "title": {
+              "fr": "À La Vie",
+              "en": "To Life"
+            },
+            "duration": "4:00",
+            "featured_artists": [],
+            "album_id": 4
+          }
+        ]
+      },
+      {
+
+        "id": 5,
+        "link": "https://www.deezer.com/fr/album/302394832",
+        "title": {
+          "fr": "Démons",
+          "en": "Demons"
+        },
+        "artist": {
+          "name": {
+            "fr": "Ninho",
+            "en": "Ninho"
+          },
+          "id": 5
+        },
+        "release_date": "2023-02-15",
+        "cover_url": "https://static.fnac-static.com/multimedia/Images/FR/NR/c8/53/d4/13915080/1540-1/tsp20211110173128/Jefe.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 501,
+            "title": {
+              "fr": "Loyal",
+              "en": "Loyal"
+            },
+            "duration": "3:30",
+            "featured_artists": [],
+            "album_id": 5
+          },
+          {
+            "id": 502,
+            "title": {
+              "fr": "Maman",
+              "en": "Mom"
+            },
+            "duration": "4:05",
+            "featured_artists": [],
+            "album_id": 5
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "link": "https://www.deezer.com/fr/album/302394832",
+        "title": {
+          "fr": "Vivre",
+          "en": "Live"
+        },
+        "artist": {
+          "name": {
+            "fr": "Nekfeu",
+            "en": "Nekfeu"
+          },
+          "id": 6
+        },
+        "release_date": "2023-03-20",
+        "cover_url": "https://static.fnac-static.com/multimedia/Images/FR/NR/04/67/6c/7104260/1540-1/tsp20170119122501/Feu.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 601,
+            "title": {
+              "fr": "On Verra",
+              "en": "We Will See"
+            },
+            "duration": "3:40",
+            "featured_artists": [],
+            "album_id": 6
+          },
+          {
+            "id": 602,
+            "title": {
+              "fr": "Ma Dope",
+              "en": "My Dope"
+            },
+            "duration": "4:15",
+            "featured_artists": [],
+            "album_id": 6
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": {
+          "fr": "Amiant",
+          "en": "Amiant"
+        },
+        "artist": {
+          "name": {
+            "fr": "Damso",
+            "en": "Damso"
+          },
+          "id": 7
+        },
+        "release_date": "2023-01-30",
+        "cover_url": "https://www.thebackpackerz.com/wp-content/uploads/2018/09/damso-lithopedion-backpackerz.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 701,
+            "title": {
+              "fr": "Zinzin",
+              "en": "Zinzin"
+            },
+            "duration": "3:55",
+            "featured_artists": [],
+            "album_id": 7
+          },
+          {
+            "id": 702,
+            "title": {
+              "fr": "Karma",
+              "en": "Karma"
+            },
+            "duration": "4:25",
+            "featured_artists": [],
+            "album_id": 7
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": {
+          "fr": "Cinquante",
+          "en": "Cinquante"
+        },
+        "artist": {
+          "name": {
+            "fr": "Jul",
+            "en": "Jul"
+          },
+          "id": 8
+        },
+        "release_date": "2023-07-01",
+        "cover_url": "https://static.fnac-static.com/multimedia/Images/FR/NR/05/c4/db/14402565/1540-1/tsp20220509085101/Extraterreste.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 801,
+            "title": {
+              "fr": "Bande Organisée",
+              "en": "Organized Band"
+            },
+            "duration": "3:25",
+            "featured_artists": [],
+            "album_id": 8
+          },
+          {
+            "id": 802,
+            "title": {
+              "fr": "Coco",
+              "en": "Coco"
+            },
+            "duration": "4:00",
+            "featured_artists": [],
+            "album_id": 8
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": {
+          "fr": "Vente",
+          "en": "Sale"
+        },
+        "artist": {
+          "name": {
+            "fr": "Lomepal",
+            "en": "Lomepal"
+          },
+          "id": 9
+        },
+        "release_date": "2023-08-05",
+        "cover_url": "https://m.media-amazon.com/images/I/91zQWwuWZrL._UF1000,1000_QL80_.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 901,
+            "title": {
+              "fr": "Caché",
+              "en": "Hidden"
+            },
+            "duration": "3:50",
+            "featured_artists": [],
+            "album_id": 9
+          },
+          {
+            "id": 902,
+            "title": {
+              "fr": "Trop Beau",
+              "en": "Too Beautiful"
+            },
+            "duration": "4:15",
+            "featured_artists": [],
+            "album_id": 9
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": {
+          "fr": "Traumatise",
+          "en": "Traumatized"
+        },
+        "artist": {
+          "name": {
+            "fr": "Keblack",
+            "en": "Keblack"
+          },
+          "id": 10
+        },
+        "release_date": "2023-09-01",
+        "cover_url": "https://static.fnac-static.com/multimedia/Images/FR/NR/c8/02/81/8454856/1540-1/tsp20161111155107/Premier-etage.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 1001,
+            "title": {
+              "fr": "C'est Pas Moi",
+              "en": "It's Not Me"
+            },
+            "duration": "3:35",
+            "featured_artists": [],
+            "album_id": 10
+          },
+          {
+            "id": 1002,
+            "title": {
+              "fr": "Keblack",
+              "en": "Keblack"
+            },
+            "duration": "4:05",
+            "featured_artists": [],
+            "album_id": 10
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": {
+          "fr": "Ghetto",
+          "en": "Ghetto"
+        },
+        "artist": {
+          "name": {
+            "fr": "Isha",
+            "en": "Isha"
+          },
+          "id": 11
+        },
+        "release_date": "2023-04-20",
+        "cover_url": "https://i.scdn.co/image/ab67616d00001e022164933ed1ec2eb940cb7348",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 1101,
+            "title": {
+              "fr": "Réel",
+              "en": "Real"
+            },
+            "duration": "3:45",
+            "featured_artists": [],
+            "album_id": 11
+          },
+          {
+            "id": 1102,
+            "title": {
+              "fr": "C'est Ghetto",
+              "en": "It's Ghetto"
+            },
+            "duration": "4:20",
+            "featured_artists": [],
+            "album_id": 11
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": {
+          "fr": "Bénéfice",
+          "en": "Benefit"
+        },
+        "artist": {
+          "name": {
+            "fr": "Lacrim",
+            "en": "Lacrim"
+          },
+          "id": 12
+        },
+        "release_date": "2023-05-15",
+        "cover_url": "https://m.media-amazon.com/images/I/71W+aMXRHzL._UF1000,1000_QL80_.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 1201,
+            "title": {
+              "fr": "Rien À Perdre",
+              "en": "Nothing to Lose"
+            },
+            "duration": "3:30",
+            "featured_artists": [],
+            "album_id": 12
+          },
+          {
+            "id": 1202,
+            "title": {
+              "fr": "Bénéfice",
+              "en": "Benefit"
+            },
+            "duration": "4:05",
+            "featured_artists": [],
+            "album_id": 12
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": {
+          "fr": "Courage",
+          "en": "Courage"
+        },
+        "artist": {
+          "name": {
+            "fr": "PLK",
+            "en": "PLK"
+          },
+          "id": 13
+        },
+        "release_date": "2023-08-20",
+        "cover_url": "https://static.fnac-static.com/multimedia/Images/FR/NR/8c/05/9f/10421644/1520-1/tsp20220210110040/Polak.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 1301,
+            "title": {
+              "fr": "Au Dela",
+              "en": "Beyond"
+            },
+            "duration": "3:55",
+            "featured_artists": [],
+            "album_id": 13
+          },
+          {
+            "id": 1302,
+            "title": {
+              "fr": "Loin",
+              "en": "Far"
+            },
+            "duration": "4:10",
+            "featured_artists": [],
+            "album_id": 13
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": {
+          "fr": "Monstre",
+          "en": "Monster"
+        },
+        "artist": {
+          "name": {
+            "fr": "Niro",
+            "en": "Niro"
+          },
+          "id": 14
+        },
+        "release_date": "2023-07-15",
+        "cover_url": "https://m.media-amazon.com/images/I/718We0efeXS._UF1000,1000_QL80_.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 1401,
+            "title": {
+              "fr": "Éveil",
+              "en": "Awakening"
+            },
+            "duration": "3:40",
+            "featured_artists": [],
+            "album_id": 14
+          },
+          {
+            "id": 1402,
+            "title": {
+              "fr": "Monstre",
+              "en": "Monster"
+            },
+            "duration": "4:30",
+            "featured_artists": [],
+            "album_id": 14
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": {
+          "fr": "Clé de la Rue",
+          "en": "Key to the Street"
+        },
+        "artist": {
+          "name": {
+            "fr": "Koba LaD",
+            "en": "Koba LaD"
+          },
+          "id": 15
+        },
+        "release_date": "2023-06-05",
+        "cover_url": "https://static.fnac-static.com/multimedia/Images/FR/NR/7e/f9/9e/10418558/1540-1/tsp20180903114021/VII.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 1501,
+            "title": {
+              "fr": "Démarrage",
+              "en": "Startup"
+            },
+            "duration": "3:30",
+            "featured_artists": [],
+            "album_id": 15
+          },
+          {
+            "id": 1502,
+            "title": {
+              "fr": "Clé",
+              "en": "Key"
+            },
+            "duration": "4:00",
+            "featured_artists": [],
+            "album_id": 15
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": {
+          "fr": "Renaissance",
+          "en": "Renaissance"
+        },
+        "artist": {
+          "name": {
+            "fr": "Tayc",
+            "en": "Tayc"
+          },
+          "id": 16
+        },
+        "release_date": "2023-09-10",
+        "cover_url": "https://cdns-images.dzcdn.net/images/cover/51dfcb30fbab88f79d299e991081a75b/0x1900-000000-80-0-0.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 1601,
+            "title": {
+              "fr": "Désolé",
+              "en": "Sorry"
+            },
+            "duration": "4:05",
+            "featured_artists": [],
+            "album_id": 16
+          },
+          {
+            "id": 1602,
+            "title": {
+              "fr": "Renaissance",
+              "en": "Renaissance"
+            },
+            "duration": "3:55",
+            "featured_artists": [],
+            "album_id": 16
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": {
+          "fr": "Évolution",
+          "en": "Evolution"
+        },
+        "artist": {
+          "name": {
+            "fr": "Fianso",
+            "en": "Fianso"
+          },
+          "id": 17
+        },
+        "release_date": "2023-08-25",
+        "cover_url": "https://m.media-amazon.com/images/I/81OCZuSSWWL._UF1000,1000_QL80_.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 1701,
+            "title": {
+              "fr": "Surnaturel",
+              "en": "Supernatural"
+            },
+            "duration": "3:40",
+            "featured_artists": [],
+            "album_id": 17
+          },
+          {
+            "id": 1702,
+            "title": {
+              "fr": "Évolution",
+              "en": "Evolution"
+            },
+            "duration": "4:15",
+            "featured_artists": [],
+            "album_id": 17
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": {
+          "fr": "Loin",
+          "en": "Far"
+        },
+        "artist": {
+          "name": {
+            "fr": "Lartiste",
+            "en": "Lartiste"
+          },
+          "id": 18
+        },
+        "release_date": "2023-10-01",
+        "cover_url": "https://static.fnac-static.com/multimedia/Images/FR/NR/d8/69/65/6646232/1507-1/tsp20150326121753/Fenomeno.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 1801,
+
+            "title": {
+              "fr": "Soleil",
+              "en": "Sun"
+            },
+            "duration": "3:35",
+            "featured_artists": [],
+            "album_id": 18
+          },
+          {
+            "id": 1802,
+            "title": {
+              "fr": "Loin",
+              "en": "Far"
+            },
+            "duration": "4:10",
+            "featured_artists": [],
+            "album_id": 18
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "link": "https://www.deezer.com/fr/album/302394832",
+        "title": {
+          "fr": "À La Vie",
+          "en": "To Life"
+        },
+        "artist": {
+          "name": {
+            "fr": "Orelsan",
+            "en": "Orelsan"
+          },
+          "id": 19
+        },
+        "release_date": "2023-11-15",
+        "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWtJQM1QiuFU7eI8y4_B9aNRsR4Ol1HD-eLg&s",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 1901,
+            "link": "https://www.deezer.com/fr/track/302394832",
+            "title": {
+              "fr": "Le Temps",
+              "en": "The Time"
+            },
+            "duration": "3:50",
+            "featured_artists": [],
+            "album_id": 19
+          },
+          {
+            "id": 1902,
+            "title": {
+              "fr": "À La Vie",
+              "en": "To Life"
+            },
+            "duration": "4:20",
+            "featured_artists": [],
+            "album_id": 19
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "link": "https://www.deezer.com/fr/album/302394832",
+        "title": {
+          "fr": "Noir",
+          "en": "Black"
+        },
+        "artist": {
+          "name": {
+            "fr": "Gazo",
+            "en": "Gazo"
+          },
+          "id": 20
+        },
+        "release_date": "2023-09-30",
+        "cover_url": "https://cdns-images.dzcdn.net/images/cover/ef9df6b09499789f71bf2c0734cba6b3/0x1900-000000-80-0-0.jpg",
+        "genre": {
+          "fr": "Rap",
+          "en": "Rap"
+        },
+        "tracks": [
+          {
+            "id": 2001,
+            "title": {
+              "fr": "Rap N'Roll",
+              "en": "Rap N'Roll"
+            },
+            "duration": "3:55",
+            "featured_artists": [],
+            "album_id": 20
+          },
+          {
+            "id": 2002,
+            "title": {
+              "fr": "Noir",
+              "en": "Black"
+            },
+            "duration": "4:15",
+            "featured_artists": [],
+            "album_id": 20
+          }
+        ]
+      },
+   
+  
+  {
+    "id": 21,
+    "title": {
+      "fr": "Rêves",
+      "en": "Dreams"
+    },
+    "artist": {
+      "name": {
+        "fr": "SCH",
+        "en": "SCH"
+      },
+      "id": 21
+    },
+    "release_date": "2023-12-01",
+    "cover_url": "https://groundzero.fr/wp-content/uploads/2022/04/SCH-JVLIVS-LP.jpg",
+    "genre": {
+      "fr": "Rap",
+      "en": "Rap"
+    },
+    "tracks": [
+      {
+        "id": 2101,
+        "title": {
+          "fr": "Intro",
+          "en": "Intro"
+        },
+        "duration": "2:30",
+        "featured_artists": [],
+        "album_id": 21
+      },
+      {
+        "id": 2102,
+        "title": {
+          "fr": "Rêves",
+          "en": "Dreams"
+        },
+        "duration": "3:45",
+        "featured_artists": [],
+        "album_id": 21
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": {
+      "fr": "Étoiles",
+      "en": "Stars"
+    },
+    "artist": {
+      "name": {
+        "fr": "Vald",
+        "en": "Vald"
+      },
+      "id": 22
+    },
+    "release_date": "2023-12-15",
+    "cover_url": "https://www.thebackpackerz.com/wp-content/uploads/2019/10/vald-ce-monde-est-cruel-album-cover.jpg",
+    "genre": {
+      "fr": "Rap",
+      "en": "Rap"
+    },
+    "tracks": [
+      {
+        "id": 2201,
+        "title": {
+          "fr": "Étoiles",
+          "en": "Stars"
+        },
+        "duration": "3:50",
+        "featured_artists": [],
+        "album_id": 22
+      },
+      {
+        "id": 2202,
+        "title": {
+          "fr": "Lumière",
+          "en": "Light"
+        },
+        "duration": "4:10",
+        "featured_artists": [],
+        "album_id": 22
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": {
+      "fr": "Liberté",
+      "en": "Freedom"
+    },
+    "artist": {
+      "name": {
+        "fr": "Aya Nakamura",
+        "en": "Aya Nakamura"
+      },
+      "id": 23
+    },
+    "release_date": "2023-12-20",
+    "cover_url": "https://m.media-amazon.com/images/I/71qdlzmFz5L._UF1000,1000_QL80_.jpg",
+    "genre": {
+      "fr": "Pop",
+      "en": "Pop"
+    },
+    "tracks": [
+      {
+        "id": 2301,
+        "title": {
+          "fr": "Liberté",
+          "en": "Freedom"
+        },
+        "duration": "3:35",
+        "featured_artists": [],
+        "album_id": 23
+      },
+      {
+        "id": 2302,
+        "title": {
+          "fr": "Danse",
+          "en": "Dance"
+        },
+        "duration": "4:00",
+        "featured_artists": [],
+        "album_id": 23
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": {
+      "fr": "Renaissance",
+      "en": "Renaissance"
+    },
+    "artist": {
+      "name": {
+        "fr": "Adele",
+        "en": "Adele"
+      },
+      "id": 24
+    },
+    "release_date": "2023-12-25",
+    "cover_url": "https://media.vogue.fr/photos/6196594d39e8f8d49af160ef/master/w_1600%2Cc_limit/COVER_no-text_10X10_RGB.jpg",
+    "genre": {
+      "fr": "Soul",
+      "en": "Soul"
+    },
+    "tracks": [
+      {
+        "id": 2401,
+        "title": {
+          "fr": "Renaissance",
+          "en": "Renaissance"
+        },
+        "duration": "4:20",
+        "featured_artists": [],
+        "album_id": 24
+      },
+      {
+        "id": 2402,
+        "title": {
+          "fr": "Chanson d'Amour",
+          "en": "Love Song"
+        },
+        "duration": "3:50",
+        "featured_artists": [],
+        "album_id": 24
+      }
+    ]
+  }
+  ,
+  {
+    "id": 25,
+    "title": {
+      "fr": "Énergie",
+      "en": "Energy"
+    },
+    "artist": {
+      "name": {
+        "fr": "MHD",
+        "en": "MHD"
+      },
+      "id": 25
+    },
+    "release_date": "2023-12-30",
+    "cover_url": "https://i.scdn.co/image/ab67616d0000b273c3490d16a931cb5f265715bf",
+    "genre": {
+      "fr": "Rap",
+      "en": "Rap"
+    },
+    "tracks": [
+      {
+        "id": 2501,
+        "title": {
+          "fr": "Énergie",
+          "en": "Energy"
+        },
+        "duration": "3:45",
+        "featured_artists": [],
+        "album_id": 25
+      },
+      {
+        "id": 2502,
+        "title": {
+          "fr": "Vitesse",
+          "en": "Speed"
+        },
+        "duration": "4:00",
+        "featured_artists": [],
+        "album_id": 25
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": {
+      "fr": "Rêveur",
+      "en": "Dreamer"
+    },
+    "artist": {
+      "name": {
+        "fr": "Niska",
+        "en": "Niska"
+      },
+      "id": 26
+    },
+    "release_date": "2024-01-05",
+    "cover_url": "https://static.fnac-static.com/multimedia/Images/FR/NR/57/4a/89/8997463/1540-1/tsp20170905153454/Commando.jpg",
+    "genre": {
+      "fr": "Rap",
+      "en": "Rap"
+    },
+    "tracks": [
+      {
+        "id": 2601,
+        "title": {
+          "fr": "Rêveur",
+          "en": "Dreamer"
+        },
+        "duration": "3:50",
+        "featured_artists": [],
+        "album_id": 26
+      },
+      {
+        "id": 2602,
+        "title": {
+          "fr": "Force",
+          "en": "Strength"
+        },
+        "duration": "4:10",
+        "featured_artists": [],
+        "album_id": 26
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": {
+      "fr": "Légende",
+      "en": "Legend"
+    },
+    "artist": {
+      "name": {
+        "fr": "Maître Gims",
+        "en": "Maître Gims"
+      },
+      "id": 27
+    },
+    "release_date": "2024-01-10",
+    "cover_url": "https://m.media-amazon.com/images/I/71IctaqTkML._UF1000,1000_QL80_.jpg",
+    "genre": {
+      "fr": "Rap",
+      "en": "Rap"
+    },
+    "tracks": [
+      {
+        "id": 2701,
+        "title": {
+          "fr": "Légende",
+          "en": "Legend"
+        },
+        "duration": "4:00",
+        "featured_artists": [],
+        "album_id": 27
+      },
+      {
+        "id": 2702,
+        "title": {
+          "fr": "Étoile",
+          "en": "Star"
+        },
+        "duration": "3:55",
+        "featured_artists": [],
+        "album_id": 27
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": {
+      "fr": "Phénomène",
+      "en": "Phenomenon"
+    },
+    "artist": {
+      "name": {
+        "fr": "Rohff",
+        "en": "Rohff"
+      },
+      "id": 28
+    },
+    "release_date": "2024-01-15",
+    "cover_url": "https://static.fnac-static.com/multimedia/images_produits/ZoomPE/8/2/8/0724357176828/tsp20130828062701/La-fierte-des-notres.jpg",
+    "genre": {
+      "fr": "Rap",
+      "en": "Rap"
+    },
+    "tracks": [
+      {
+        "id": 2801,
+        "title": {
+          "fr": "Phénomène",
+          "en": "Phenomenon"
+        },
+        "duration": "3:40",
+        "featured_artists": [],
+        "album_id": 28
+      },
+      {
+        "id": 2802,
+        "title": {
+          "fr": "Puissance",
+          "en": "Power"
+        },
+        "duration": "4:20",
+        "featured_artists": [],
+        "album_id": 28
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": {
+      "fr": "Renaissance",
+      "en": "Rebirth"
+    },
+    "artist": {
+      "name": {
+        "fr": "Kery James",
+        "en": "Kery James"
+      },
+      "id": 29
+    },
+    "release_date": "2024-01-20",
+    "cover_url": "https://m.media-amazon.com/images/I/717k+HStnyL._UF1000,1000_QL80_.jpg",
+    "genre": {
+      "fr": "Rap",
+      "en": "Rap"
+    },
+    "tracks": [
+      {
+        "id": 2901,
+        "title": {
+          "fr": "Renaissance",
+          "en": "Rebirth"
+        },
+        "duration": "4:05",
+        "featured_artists": [],
+        "album_id": 29
+      },
+      {
+        "id": 2902,
+        "title": {
+          "fr": "Espoir",
+          "en": "Hope"
+        },
+        "duration": "3:55",
+        "featured_artists": [],
+        "album_id": 29
+      }
+    ]
+  }
+]
+}
+  
