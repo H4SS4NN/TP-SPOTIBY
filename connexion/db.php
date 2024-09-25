@@ -1,10 +1,8 @@
 <?php
-
-$host = proccess.env.DB_HOST;
-$dbname = proccess.env.DB_NAME;
-
-$username = proccess.env.DB_USER;
-$password = proccess.env.DB_PASS;
+$host = getenv('DB_HOST');
+$dbname = getenv('DB_NAME');
+$username = getenv('DB_USERNAME') ;
+$password = getenv('DB_PASSWORD') ;
 
 try {
 
